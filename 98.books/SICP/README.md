@@ -5,7 +5,8 @@
 - 原书第二版(pdf, epub)
 - 原书第二版中文版(pdf)
 - JavaScript版本(2022, epub)
-- [JavaScript中文版](https://github.com/apachecn/sicp-js-zh)
+- [JavaScript 中文版](https://github.com/apachecn/sicp-js-zh)
+- [Python 版本](https://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
 
 
 《计算机程序的构造和解释》是一本关于计算机程序设计的总体性观念的基础教科书。
